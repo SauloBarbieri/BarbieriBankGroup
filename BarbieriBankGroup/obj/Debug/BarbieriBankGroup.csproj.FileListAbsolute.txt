@@ -1,0 +1,12 @@
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\bin\Debug\BarbieriBankGroup.exe.config
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\bin\Debug\BarbieriBankGroup.exe
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\bin\Debug\BarbieriBankGroup.pdb
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.csprojAssemblyReference.cache
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.CadastroConta.resources
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.Form1.resources
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.Properties.Resources.resources
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.csproj.GenerateResource.cache
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.csproj.CoreCompileInputs.cache
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.exe
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.pdb
+D:\Estudo\Curso Alura C#\10 - Projetos\BarbieriBankGroup\BarbieriBankGroup\BarbieriBankGroup\obj\Debug\BarbieriBankGroup.Deposito.resources

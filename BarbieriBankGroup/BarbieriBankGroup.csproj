@@ -46,6 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CadastroConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroConta.Designer.cs">
+      <DependentUpon>CadastroConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conta.cs" />
+    <Compile Include="ContaCorrente.cs" />
+    <Compile Include="Deposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deposito.Designer.cs">
+      <DependentUpon>Deposito.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +68,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CadastroConta.resx">
+      <DependentUpon>CadastroConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deposito.resx">
+      <DependentUpon>Deposito.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
